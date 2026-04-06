@@ -1,13 +1,20 @@
 /*
- * Attendance Manager - "Shortage Predictor"
- * DA2 C++ Mini Project
- * 
- * Student: Daksh Agarwal
- * Registration Number: 25BCE5098
- * 
- * Description: A class advisor tool to track student attendance,
- * identify shortage students, and generate attendance reports.
+ * ============================================================
+ * Project Title : Attendance Manager – Shortage Predictor
+ * Student Name  : Daksh Agarwal
+ * Register No   : 25BCE5098
+ * Department    : BCE (B.Tech Computer Science & Engineering)
+ * Course        : Structured and Object Oriented Programming
+ * Faculty       : Dr. Dinakaran M
+ * ============================================================
+ *
+ * Description:
+ * A menu-driven C++ program for class advisors to manage student
+ * attendance, identify shortage students (below 75%), and generate
+ * attendance reports. Data is persisted to attendance_data.txt.
+ * ============================================================
  */
+
 
 #include <iostream>
 #include <fstream>
